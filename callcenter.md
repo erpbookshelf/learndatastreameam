@@ -2,21 +2,21 @@
 
 ## Status and Type Fields
 
-Call center contact record status
+### Call center contact record status
 
-Default values: Open, Follow-up, Closed, Cancelled
+**Default values:** Open, Follow-up, Closed, Cancelled
 
-Source
+### Source
 
-Default values: Phone, Fax, E-mail, Walk-in
+**Default values:** Phone, Fax, E-mail, Walk-in
 
-Type
+### Type
 
-Default values: Work Request, Action, Comment, Information
+**Default values:** Work Request, Action, Comment, Information
 
-VIP status
+### VIP status
 
-Equipment usability
+### Equipment usability
 
 ## Service Problem Codes
 
