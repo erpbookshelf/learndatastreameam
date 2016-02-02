@@ -28,6 +28,12 @@
 
 ### VIP status
 
+**Default values:** -None-
+
+**System Code Type:** Codes
+
+**System Code Entity:** VIPS
+
 ### Equipment usability
 
 ## Service Problem Codes
